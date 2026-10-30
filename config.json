@@ -1,0 +1,19 @@
+{
+  "_comentario": "Parámetros del AG. Modifique estos valores sin editar el código.",
+  "tam_poblacion": 50,
+  "generaciones": 100,
+  "prob_cruce": 0.8,
+  "prob_mutacion": 0.01,
+  "semilla": 42,
+  "representacion": "binaria",
+  "seleccion": "torneo",
+  "tam_torneo": 2,
+  "cruce": "un_punto",
+  "mutacion": "bit_flip",
+  "elitismo": 1,
+  "precision_decimales": 6,
+  "sigma": 0.1,
+  "eta": 20.0,
+  "b_no_uniforme": 5.0,
+  "alfa_blx": 0.5
+}
